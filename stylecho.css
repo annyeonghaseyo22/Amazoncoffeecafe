@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    background-color: bisque;
+}
+
+
+.g{
+    font-family: "Athiti", sans-serif;
+}
+
+
+
+.num{
+    margin-top: 20px;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+   text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+
+.go{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+
+.cake{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+
+
+.num:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+
+.go:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+.cake:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+
+.hot{
+    margin-left: 290px;
+    user-select: none;
+    margin-top: 0.1px;
+  
+}
+
+.cool{
+    margin-left: 350px;
+    position: fixed;
+    top: 73px;
+    user-select: none;
+}
+
+.smooty{
+    margin-left:400px;
+    position: fixed;
+top: 73px;
+user-select: none;
+}
+
+.hot1{
+    margin-left: 290px;
+    top: 98px;
+    font-family: "Athiti", sans-serif;
+}
+
+.cool1{
+    position: fixed;
+    margin-left: 348px;
+    top: 102px;
+    font-family: "Athiti", sans-serif;
+}
+
+
+.smooty1{
+    position:fixed ;
+    margin-left: 400px;
+    top: 102px;
+    font-family: "Athiti", sans-serif;
+}
+
+.Nmalet1{
+    position: fixed;
+    margin-left: 221px; 
+}
+
+.Nmalet2{
+    position: fixed;
+    margin-left: 277px;
+    
+}
+
+.Nmalet3{
+    position: fixed;
+    margin-left: 330px;
+    
+}
+
+.Gmalet1{
+    position: fixed;
+    margin-left: 191px;
+}
+
+.Gmalet2{
+    position: fixed;
+    margin-left: 247px;
+}
+
+.Gmalet3{
+    position: fixed;
+    margin-left: 302px;
+}
+
+.Tmalet1{
+    position: fixed;
+    margin-left: 260px;
+}
+

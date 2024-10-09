@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    background-color: bisque;
+}
+
+.e{
+    font-family: "Athiti", sans-serif;
+}
+
+
+
+
+.ma{
+    margin-top: 20px;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+    
+   
+}
+
+
+.da{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+
+}
+
+
+.fa{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+
+.la{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+
+.ma:hover, .active{
+    background-color: rgb(0, 100, 0);
+  color: aliceblue;
+}
+
+
+.da:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+.fa:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+
+.la:hover, .active{
+    background-color: rgb(0, 100, 0);
+color: aliceblue;
+}
+
+
+
+.hot{
+    margin-left: 290px;
+    user-select: none;
+    top: 61px;
+  
+}
+
+.cool{
+    margin-left: 350px;
+    position: fixed;
+    top: 72px;
+    user-select: none;
+}
+
+.smooty{
+    margin-left:400px;
+    position: fixed;
+top: 72px;
+user-select: none;
+}
+
+.hot1{
+    margin-left: 290px;
+    margin-top: 1px;
+    font-family: "Athiti", sans-serif;
+}
+
+
+.cool1{
+    position: fixed;
+    margin-left: 348px;
+    top: 103px;
+    font-family: "Athiti", sans-serif;
+}
+
+.smooty1{
+    position:fixed ;
+    margin-left: 400px;
+    top: 103px;
+    font-family: "Athiti", sans-serif;
+}
+
+.CHmalet1{
+    position:fixed ;
+    margin-left: 254px;
+}
+.Dmalet1{
+    position: fixed;
+    margin-left: 222px; 
+}
+
+.Fmalet1{
+    position: fixed;
+    margin-left: 252px;
+    
+}
+
+.LImalet1{
+    position: fixed;
+    margin-left: 231px;
+    
+}

@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    background-color: bisque;
+}
+
+
+.c{
+    font-family: "Athiti", sans-serif;
+}
+
+
+.lin{
+    margin-top: 20px;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+    
+   
+}
+
+
+.mix{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+
+.yok{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+   margin-left: 20px;
+   cursor: pointer;
+}
+
+
+
+.lin:hover, .active{
+    background-color: rgb(0, 100, 0);
+color: aliceblue;
+}
+
+
+.mix:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+.yok:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+
+.hot{
+    margin-left: 290px;
+    user-select: none;
+    top: 61px;
+  
+}
+
+.cool{
+    margin-left: 350px;
+    position: fixed;
+    top: 73px;
+    user-select: none;
+}
+
+.smooty{
+    margin-left:400px;
+    position: fixed;
+top: 73px;
+user-select: none;
+}
+
+.hot1{
+    margin-left: 290px;
+    margin-top: 1px;
+    font-family: "Athiti", sans-serif;
+}
+
+.cool1{
+    position: fixed;
+    margin-left: 348px;
+    top: 103px;
+    font-family: "Athiti", sans-serif;
+}
+
+
+.smooty1{
+    position:fixed ;
+    margin-left: 400px;
+    top: 103px;
+    font-family: "Athiti", sans-serif;
+}
+
+.Jmalet1{
+    position: fixed;
+    margin-left: 274px; 
+}
+
+.Jmalet2{
+    position: fixed;
+    margin-left: 324px;
+    
+}
+
+.Xmalet1{
+    position: fixed;
+    margin-left: 290px;
+}
+
+
+
+.Ymalet1{
+    position: fixed;
+    margin-left: 263px;
+}

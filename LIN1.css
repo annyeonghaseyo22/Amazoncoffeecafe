@@ -1,0 +1,51 @@
+body{
+    background-color: bisque;
+}
+
+
+
+
+.icon10{
+    margin-top: -100px;
+    position: fixed;
+    margin-left: 60px;
+   margin-top: -60px;
+    
+}
+
+
+
+
+.btn1{
+    width: 100px;
+    margin-top: 400px;
+    position: fixed;
+    margin-left: 110px;
+    
+    }
+    
+    
+    
+    
+    
+    
+    .btn2{
+        width: 100px;
+    margin-top: 400px;
+    position: fixed;
+    margin-left: 240px;
+    
+    }
+    
+    
+    
+    
+        
+    
+    .btn2:hover{
+        background: url(img/products_icon_smooty_hover.png) no-repeat;
+        background-size: cover;
+        
+        
+    }
+    

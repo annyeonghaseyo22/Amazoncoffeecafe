@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    background-color: bisque;
+
+}
+
+.b{
+    margin-top: 0px;
+    font-size: 15px;
+    font-family: "Athiti", sans-serif;
+}
+
+
+
+.s{
+    margin-top: 20px;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+    margin-left: 20px;
+    cursor: pointer;
+   
+}
+
+
+.k{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+
+.c{
+    margin-top: 0;
+    font-size: 15px;
+    background: none;
+    border: none;
+    width: 600px;
+    height: 30px;
+    font-family: "Athiti", sans-serif;
+    text-align: left;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+
+.l{
+    margin-top: 0;
+    font-size: 15px;
+background: none;
+border: none;
+width: 600px;
+    height: 30px;
+font-family: "Athiti", sans-serif;
+text-align: left;
+margin-left: 20px;
+cursor: pointer;
+}
+
+
+.s:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+
+.c:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+.k:hover, active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+.l:hover, .active{
+    background-color: rgb(0, 100, 0);
+    color: aliceblue;
+}
+
+
+.hot{
+    margin-left: 290px;
+    user-select: none;
+    top: 61px;
+  
+}
+
+.cool{
+    margin-left: 350px;
+    position: fixed;
+    top: 70px;
+    user-select: none;
+}
+
+.smooty{
+    margin-left:400px;
+    position: fixed;
+top: 71px;
+user-select: none;
+}
+
+.hot1{
+    margin-left: 290px;
+    margin-top: 1px;
+    font-family: "Athiti", sans-serif;
+}
+
+.cool1{
+    position: fixed;
+    margin-left: 348px;
+    top: 99px;
+    font-family: "Athiti", sans-serif;
+}
+
+
+.smooty1{
+    position:fixed ;
+    margin-left: 400px;
+    top: 99px;
+    font-family: "Athiti", sans-serif;
+}
+
+.Smalet1{
+    position: fixed;
+    margin-left: 194px;
+    
+    
+}
+
+.Smalet2{
+    position: fixed;
+    margin-left: 249px;
+    
+}
+
+.Smalet3{
+    position: fixed;
+    margin-left: 300px;
+    
+}
+
+.Bmalet1{
+    position: fixed;
+    margin-left: 187;
+}
+
+.Bmalet2{
+    position: fixed;
+    margin-left: 242px;
+}
+
+.Cmalet1{
+    position: fixed;
+    margin-left: 209px;
+}
+
+.Cmalet2{
+    position: fixed;
+    margin-left: 265px;
+}
+
+.Cmalet3{
+    position: fixed;
+    margin-left: 320px;
+
+}
+
+.Lmalet1{
+position: fixed;
+margin-left: 227px;
+}
+
+.Lmalet2{
+position: fixed;
+margin-left: 283px;
+}
+
+.Lmalet3{
+position: fixed;
+margin-left: 336px;
+}
+
+
