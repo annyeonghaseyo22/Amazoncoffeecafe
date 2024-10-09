@@ -1,0 +1,61 @@
+body{
+    background-color: bisque;
+}
+
+
+
+
+.icon5{
+    margin-top: -100px;
+    position: fixed;
+    margin-left: 60px;
+   margin-top: -60px;
+    
+}
+
+
+
+
+.btn1{
+    width: 100px;
+    margin-top: 400px;
+    position: fixed;
+    margin-left: 110px;
+    
+    }
+    
+    
+    
+    
+    
+    
+    .btn2{
+        width: 100px;
+    margin-top: 400px;
+    position: fixed;
+    margin-left: 240px;
+    
+    }
+    
+    
+    
+    
+        
+    
+    .btn1:hover{
+        background: url(img/products_icon_hot_hover.png) no-repeat;
+        background-size: cover;
+        
+        
+    }
+    
+
+
+
+    .name{
+        color: black;
+        width: 30px;
+        margin-left: 20px;
+        margin-top: 40px;
+        position: fixed;
+    }
