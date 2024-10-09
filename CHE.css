@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+
+}
+
+
+
+
+.icon17{
+    margin-top: -100px;
+    position: fixed;
+    margin-left: 50px;
+   margin-top: -70px;
+    
+}
+
+
+
+
+.btn1{
+    width: 100px;
+    margin-top: 400px;
+    position: fixed;
+    margin-left: 175px;
+    
+    }
+
+
+
+
+    .name{
+        color: black;
+        width: 30px;
+        margin-left: 20px;
+        margin-top: 40px;
+        position: fixed;
+    }
